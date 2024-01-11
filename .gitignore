@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# merged_weights
+hf_merge/
+
 # Distribution / packaging
 .Python
 build/
